@@ -40,10 +40,10 @@ To run NeuroSync locally, follow these steps:
    ```
 
 4. **Upload Required Files**:
-   - Download `focus_classifier_rf (1).pkl` and `sample_eeg (1).csv` from [[Google Drive link](https://drive.google.com/file/d/1QP2tqD9px5O3W04gsuapT5IcAqTm-d7u/view?usp=sharing)] and upload them via the app interface.
+   - Download `focus_classifier_rf .pkl`  from [[Google Drive link](https://drive.google.com/file/d/1QP2tqD9px5O3W04gsuapT5IcAqTm-d7u/view?usp=sharing)] and upload them via the app interface.
 
 ## Usage
-- Upload the pre-trained model file `focus_classifier_rf (1).pkl` and a 21-channel EEG CSV file (e.g., `sample_eeg (1).csv`).
+- Upload the pre-trained model file `focus_classifier_rf .pkl` and a 21-channel EEG CSV file (e.g., `sample_eeg .csv`).
 - The app will display the focus state ("Focused" or "Distracted"), model accuracy (94%), and interactive visualizations including confidence scores, time-series trends, and frequency band powers.
 
 ## Future Work

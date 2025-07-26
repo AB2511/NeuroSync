@@ -1,7 +1,7 @@
 # NeuroSync: A BCI-Powered Focus Assistant
 
 ## Overview
-NeuroSync is an innovative machine learning application that classifies EEG (electroencephalogram) signals as "Focused" or "Distracted" using a Random Forest model trained on the EEGMAT dataset (72 EDF files from 36 subjects). Achieving 94% accuracy, this project simulates brain-computer interface (BCI) input with pre-recorded EEG data, with future plans to integrate real-time BCI hardware such as Muse or NeuroSky. Developed by Anjali in July 2025, NeuroSync highlights expertise in EEG signal processing, machine learning, and web application development.
+NeuroSync is an innovative machine learning application that classifies EEG (electroencephalogram) signals as "Focused" or "Distracted" using a Random Forest model trained on the EEGMAT dataset (72 EDF files from 36 subjects). Achieving 94% accuracy, this project simulates brain-computer interface (BCI) input with pre-recorded EEG data, with future plans to integrate real-time BCI hardware such as Muse or NeuroSky. Developed by me in July 2025, NeuroSync highlights expertise in EEG signal processing, machine learning, and web application development.
 
 - **[Live Demo](https://neurosyncafocusassistant.streamlit.app/)**
 - **[GitHub Repository](https://github.com/AB2511/NeuroSync)**
